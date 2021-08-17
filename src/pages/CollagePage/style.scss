@@ -1,0 +1,21 @@
+ /* ------------------ */
+/* $global */
+/* ------------------ */
+*{
+    margin: 0 0;
+    padding: 0 0;
+    text-decoration: none;
+    position: relative;
+    box-sizing: border-box;
+  }
+
+/* ------------------- */
+/* components */
+/* ------------------- */
+.collage-page{
+    width: 100vw;
+    height: 150vh;
+    background-color: rgba(0, 174, 255, 0.767);
+    padding-top: 60px;
+    
+}
